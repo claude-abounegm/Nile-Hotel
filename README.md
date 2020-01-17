@@ -5,6 +5,6 @@ A secure rich internet application for a hotel to support reservation transactio
 
 
 <p align="center">
-    <img src="Picture1.jpg"</img> 
+    <img src="Photo.jpg"</img> 
 </p>
 
